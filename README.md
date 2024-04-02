@@ -1,10 +1,3 @@
-### Hi there 👋
-[![Header](https://raw.githubusercontent.com/jabeen4/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
-
-<!--
-**jabeen4/jabeen4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 i'm currently working on Data warehousing project that includes pyspark development and AWS, im' currently trying learn more about Java Advanced as i have an learned about spring framework and worked upon it, im open to collabration for java projects
 
