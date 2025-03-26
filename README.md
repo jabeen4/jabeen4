@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on Data warehousing project that includes pyspark development and AWS, im' currently trying learn more about Java Advanced as i have an learned about spring framework and worked upon it, im open to collabration for java projects
+i'm currently working on Data warehousing project that includes Java SpringBoot development and AWS, im' currently trying learn more about Java Advanced as i have an learned about spring framework and worked upon it, im open to collabration for java projects
 
 
 ## 🌐 Socials:
